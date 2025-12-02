@@ -22,5 +22,5 @@
 Model types: Linear Regression, Random Forest.
 Accuracy/Performance: 
 <p align="center">
-  <img src="images/TrainingModel_PlotGraph.png" width="500" alt="Workflow Diagram">
+  <img src="images/TrainingModels_ScatterPlot.png" width="500" alt="Workflow Diagram">
 </p>
